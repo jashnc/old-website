@@ -2,6 +2,7 @@ html {
   text-decoration: none;
 }
 .container {
+ min-width: 180px;
   font-family: 'Raleway', sans-serif;
   width:30%;
   margin: auto;
@@ -9,7 +10,7 @@ html {
   color: black;
   border: 1px solid black;
   padding: 20px;
-
+  overflow: auto;
 
 }
 
